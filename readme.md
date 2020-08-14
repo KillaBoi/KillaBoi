@@ -1,1 +1,6 @@
+### Hey! I'm [Jaydip](https://2eggs.me), a self-taught developer located in the United Kingdom. <br /> Welcome to my GitHub profile!👋
 ![Jaydip's github stats](https://github-readme-stats.vercel.app/api?username=killaboi&theme=radical&show_icons=true)
+<br />
+<br />
+
+
