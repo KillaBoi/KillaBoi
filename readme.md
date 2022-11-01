@@ -3,4 +3,4 @@
 <br />
 <br />
 
-You should check out my [HackerOne](https://hackerone.com/killa1337) or my [Bugcrowd](https://bugcrowd.com/killa)!
+You should check out my [HackerOne](https://hackerone.com/killa) or my [Bugcrowd](https://bugcrowd.com/killa)!
